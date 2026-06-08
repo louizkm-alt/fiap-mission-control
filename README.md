@@ -6,9 +6,8 @@ Aplicativo mobile desenvolvido em **React Native + Expo** para simular uma **Cen
 
 Preencha antes de entregar:
 
-- Nome completo: `________________________` | RM: `________`
-- Nome completo: `________________________` | RM: `________`
-- Nome completo: `________________________` | RM: `________`
+- Nome completo: Luiz Miguel Martin Crocco | RM: 562796
+- Nome completo: Rafael Louzã | RM: 564963
 
 ## Objetivo
 
@@ -122,19 +121,3 @@ utils/validators.ts
 ```
 
 A tela `app/(tabs)/update.tsx` usa essa validação antes de salvar os dados.
-
-## Sugestão de commits para demonstrar evolução
-
-1. `chore: criar projeto Expo com TypeScript`
-2. `feat: implementar navegação com Expo Router`
-3. `feat: criar Context API da missão`
-4. `feat: adicionar persistência com AsyncStorage`
-5. `feat: criar dashboard de telemetria`
-6. `feat: implementar alertas automáticos`
-7. `feat: adicionar formulário com validação`
-8. `style: aplicar tema espacial`
-9. `docs: atualizar README e arquivo de entrega`
-
-## Arquivo de entrega
-
-No portal FIAP, enviar um arquivo `.txt` com nomes, RMs e link do GitHub.
