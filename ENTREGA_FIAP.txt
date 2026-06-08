@@ -1,0 +1,15 @@
+FIAP - Global Solution 2026.1
+Disciplina: Cross-Platform Application Development
+
+Projeto: FIAP Mission Control - Central de Monitoramento de Missões Espaciais
+
+Integrantes:
+1. Nome completo: ______________________________ | RM: ____________
+2. Nome completo: ______________________________ | RM: ____________
+3. Nome completo: ______________________________ | RM: ____________
+
+Link do GitHub:
+https://github.com/SEU-USUARIO/fiap-mission-control
+
+Observação:
+Antes de entregar, substituir este link pelo repositório final publicado no GitHub.
