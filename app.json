@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "FIAP Mission Control",
+    "slug": "fiap-mission-control",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "fiapmission",
+    "userInterfaceStyle": "dark",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#030712"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
